@@ -1,0 +1,27 @@
+{
+  "name": "symfonie-custom-fields",
+  "version": "1.0.0",
+  "description": "React implementation for Symfonie",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "author": "marcy",
+  "dependencies": {
+    "@types/react": "^15.0.12",
+    "@types/react-dom": "^0.14.23",
+    "@types/jquery": "^2.0.40",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "express": "~3.4.4",
+    "jquery": "^3.1.1",
+    "select2": "~3.5.1",
+    "select2-bootstrap-css": "~1.4.6",
+    "mongoose": "~3.6.2"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^3.0.7",
+    "source-map-loader": "^0.1.6",
+    "typescript": "^2.2.1"
+  }
+}
